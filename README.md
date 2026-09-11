@@ -6,8 +6,6 @@
 
 Cortex üyeliği olup buradaki [modelleri](https://api.claude.gg/v1/models) kullanarak proje geliştirmek isteyenler için uygundur
 
-Claude 4 Opus Kullanılarak Hazırlandı.
-
 ## 🌟 Özellikler
 
 - ✅ **Discord v14 Slash Komutları** - Modern Discord bot API desteği
