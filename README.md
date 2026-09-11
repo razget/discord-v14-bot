@@ -1,4 +1,4 @@
-# 🤖 V14 Discord Bot Altyapısı Yapay Zeka Entegrasyonlu
+# 🤖 V14 Discord Bot Altyapı
 
 [![Node.js](https://img.shields.io/badge/Node.js-16.9.0+-green.svg)](https://nodejs.org/)
 [![Discord.js](https://img.shields.io/badge/Discord.js-v14-blue.svg)](https://discord.js.org/)
